@@ -1,3 +1,5 @@
+# List files in folder and write their names to lista.txt file
+
 from os import listdir
 
 path = r"E:\folder"
